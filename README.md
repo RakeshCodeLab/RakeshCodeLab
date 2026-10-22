@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Software_Engineering-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Software Engineering" />
   <img src="https://img.shields.io/badge/Open_Source-2563EB?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source" />
-  <img src="https://img.shields.io/badge/Financial_Engineering-0891B2?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Financial Engineering" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%88_Financial_Engineering-0891B2?style=for-the-badge" alt="Financial Engineering" />
 </p>
 
 🧑‍💻 About Me
